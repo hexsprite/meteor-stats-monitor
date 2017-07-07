@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "pidusage": {
+      "version": "1.1.5",
+      "resolved": "https://registry.npmjs.org/pidusage/-/pidusage-1.1.5.tgz",
+      "from": "pidusage@1.1.5"
+    }
+  }
+}
