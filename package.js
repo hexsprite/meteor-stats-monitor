@@ -24,5 +24,8 @@ Package.onTest(function (api) {
 })
 
 Npm.depends({
-  pidusage: '1.1.5'
+  pidusage: '1.1.5',
+  '@slack/client': '3.10.0',
+  'circular-buffer': '1.0.2',
+  lodash: '4.17.4'
 })
