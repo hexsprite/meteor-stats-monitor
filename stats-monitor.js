@@ -1,8 +1,8 @@
 import _ from 'lodash'
+import * as os from 'os'
 import usage from 'pidusage'
 import CircularBuffer from 'circular-buffer'
 import { IncomingWebhook } from '@slack/client'
-const os = require('os')
 
 // testing
 // const CHECK_INTERVAL = 1 * 1000 // 60 seconds
